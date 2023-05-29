@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from './components/pages/Navbar';
+import Navbar from './components/Navbar';
 import './App.css';
-import Home from './components/pages/Home';
+import Home from './components/Home';
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
-import Contact from './components/pages/Contact';
-import About from './components/pages/About';
+import Contact from './components/Contact';
+import About from './components/About';
 
 
 function App() {
